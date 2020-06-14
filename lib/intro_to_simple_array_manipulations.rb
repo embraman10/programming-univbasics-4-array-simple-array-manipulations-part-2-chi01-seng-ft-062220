@@ -1,4 +1,4 @@
-def using_concat(arrays, arrays)
+def using_concat(arrays)
   arrays.concat(arrays)
 end
 
