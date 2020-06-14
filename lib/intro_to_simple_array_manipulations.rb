@@ -15,5 +15,6 @@ def using_flatten (array)
 end
 
 def using_delete (array, integer)
-  array.delete(integer)
+  famous_robots = ["Johnny 5", "R2D2", "Robocop"]
+  famous_robots.delete(2)
 end
