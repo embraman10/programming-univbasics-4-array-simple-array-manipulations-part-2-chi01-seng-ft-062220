@@ -1,7 +1,5 @@
-def using_concat(arrays)
-  my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
-  more_favs = ["sports cars", "flatiron school"]
-  all_my_favs = array.concat(my_favorite_things, more_favs)
+def using_concat(arrays, arrays)
+  arrays.concat(arrays)
 end
 
 def using_insert (array, element)
