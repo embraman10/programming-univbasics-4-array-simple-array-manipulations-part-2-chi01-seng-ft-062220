@@ -1,4 +1,4 @@
-def using_concat(array, array)
+def using_concat(array)
   ["raindrops on roses", "whiskers on kittens"].concat(["sports cars", "flatiron school"])
 end
 
