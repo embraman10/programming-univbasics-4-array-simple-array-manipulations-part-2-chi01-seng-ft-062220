@@ -1,5 +1,6 @@
 def using_concat(array)
-  array.concat
+  my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
+  array.concat( ["sports cars", "flatiron school"] )
 end
 
 
@@ -9,9 +10,11 @@ def using_insert
 end
 
 def using_uniq
-
+  haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
+  array.uniq
 end
 
 def using_flatten
-
+  instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
+  
 end
