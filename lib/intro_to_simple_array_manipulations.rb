@@ -16,5 +16,5 @@ end
 
 def using_flatten
   instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
-  
+
 end
