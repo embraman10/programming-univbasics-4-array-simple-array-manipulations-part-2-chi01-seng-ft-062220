@@ -1,4 +1,4 @@
-def using_concat(array)
+def using_concat(arrays)
   my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
   more_favs = ["sports cars", "flatiron school"]
   array.concat(my_favorite_things,more_favs)
