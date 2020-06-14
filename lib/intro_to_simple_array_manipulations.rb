@@ -10,7 +10,12 @@ def using_uniq (array)
   array.uniq
 end
 
-def using_flatten
+def using_flatten (array)
   instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
 
 end
+
+def using_delete (array, string)
+  array.delete
+end
+
